@@ -1,0 +1,14 @@
+{
+    "name": "pierre/poo",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "pierrenoel",
+            "email": "pierrenoel1509@gmail.com"
+        }
+    ]
+}
