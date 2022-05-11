@@ -1,1 +1,5 @@
 # Starter
+
+```console
+composer install
+```
